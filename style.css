@@ -1,0 +1,24 @@
+body {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+a:link {
+  color: #6900ff;
+}
+
+a:visited {
+  color: #a5c300;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+  background: #cdfeaa;
+}
+
+a:active {
+  background: #6900ff;
+  color: #cdfeaa;
+}
