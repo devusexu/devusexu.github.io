@@ -1,8 +1,8 @@
-body {
+/* body {
   width: 50%;
   margin: 0 auto;
   text-align: center;
-}
+} */
 
 a:link {
   color: #6900ff;
@@ -21,4 +21,11 @@ a:focus {
 a:active {
   background: #6900ff;
   color: #cdfeaa;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
